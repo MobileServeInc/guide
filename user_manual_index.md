@@ -6,24 +6,21 @@ app from any Internet connected device at: [app.mobileserve.org](https://app.mob
 
 ### To create a new profile:
 
-In the web app (app.mobileserve.org):
+#### In the web app (app.mobileserve.org):
 1. Click the "Sign Up" button on the "Login" Screen.
-2. Enter your name, email address, and create a password.
-3. Affiliate with your organization via the org code provided by your administrator, or skip this step
-to not affiliate with an organization.
-4. Upload your profile picture and start logging hours.
+1. Enter your name, email address, and create a password.
+1. Affiliate with your organization via the org code provided by your administrator, or skip this step to not affiliate with an organization.
+1. Upload your profile picture and start logging hours.
 
-In the mobile app:
-5. Enter your name, email address, and create a password.
-6. If you’re part of an organization and your administer has given you the org code, enter it and
-when the org name pops up, select Next (skip this step if you’re not affiliated with a
-MobileServe client).
-7. Upload your profile picture and start logging hours.
+#### In the mobile app:
+1. Enter your name, email address, and create a password.
+1. If you’re part of an organization and your administer has given you the org code, enter it and when the org name pops up, select Next (skip this step if you’re not affiliated with a MobileServe client).
+1. Upload your profile picture and start logging hours.
 
-If you are accessing the app with an email invitation:
+#### If you are accessing the app with an email invitation:
 1. Click the link in your invitation email.
-2. Create a password for your account.
-3. Upload your profile picture and start logging hours.
+1. Create a password for your account.
+1. Upload your profile picture and start logging hours.
 
 ## Join multiple organizations
 
