@@ -15,4 +15,15 @@ organization. If you have any sub-organizations, they’ll be listed at the bott
 
 ![Dashboard Overview Picture](img/dashboard-home.png)
 
+#### Tips
+- Filter the data by date in the top right corner.
+- Hover over a Service Category to see total number of hours for that category
 
+
+
+## Users 
+
+In the Users section, you can invite and manage users. The User Management page shows
+basic contact information as well as total service hours each user has contributed to date.
+
+etc, etc, etc...
