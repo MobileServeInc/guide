@@ -25,7 +25,7 @@ If you are accessing the app with an email invitation:
 2. Create a password for your account.
 3. Upload your profile picture and start logging hours.
 
-### Join multiple organizations
+## Join multiple organizations
 
 You can belong to more than one organization, and when you log your time you’ll be able to choose
 which organization(s) you want to report it to. If you’re already part of an organization, here’s how to
@@ -45,7 +45,7 @@ In the mobile app:
 - Enter the code and wait for the organization to be found
 - Select "Join"
 
-### Log your time
+## Log your time
 
 In the web app (app.mobileserve.org):
 1. From the home screen of your profile, click the "Log your hours" button.
@@ -78,7 +78,7 @@ In the mobile app:
 8. Select "Done" and your log and all details will appear on your Activity Page.
 
 
-### RSVP or check - in / out of an event
+## RSVP or check - in / out of an event
 
 In the web app (app.mobileserve.org):
 1. Click on the "Events" tab in the lefthand navigation menu. You'll see all the events you've been invited to.
@@ -99,7 +99,7 @@ In the mobile app:
 6. You have the option to add photos and publish to your social channels. 
 
 
-### Edit past log activity
+## Edit past log activity
 
 In the web app (app.mobileserve.org):
 1. Click on the "Activity" tab in the lefthand navigation menu to see all your events.
@@ -114,11 +114,11 @@ In the mobile app:
 4. Toggle through the screens to make your changes.
 
 
-### Update your privacy settings
+## Update your privacy settings
 1. Go to your Settings page by clicking on the gear icon.
 2. Under Privacy, you can choose from public, private, or friends only.
 
-### Change your password
+## Change your password
 
 If you've forgotten it:
 1. From the login page, select "Forgot your password?"
@@ -127,11 +127,11 @@ If you've forgotten it:
 If you can log-in but want to change your PW:
 1. Go to your Settings (gear icon), select Change Password.
 
-### Change your email address
+## Change your email address
 1. Go to your Settings page by clicking on the gear icon.
 2. Select "Change" next to your email address.
 
-### Find / invite friends
+## Find / invite friends
 
 In the web app (app.mobileserve.org):
 1. Click on the Friends tab in the lefthand navigation menu.
