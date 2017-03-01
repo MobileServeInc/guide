@@ -28,13 +28,13 @@ You can belong to more than one organization, and when you log your time you’l
 which organization(s) you want to report it to. If you’re already part of an organization, here’s how to
 add an additional org to your account:
 
-In the web app (app.mobileserve.org):
+#### In the web app (app.mobileserve.org):
 - Go to Settings (gear icon next to your name)
 - Under Organization click “Join Organization”
 - On the following page enter the code and wait for the organization to be found
 - Select “Join”
 
-In the mobile app:
+#### In the mobile app:
 - Go to the main menu by tapping the 3-line icon in the top left
 - Go to Settings (gear icon next to your name)
 - Scroll to the bottom
@@ -44,7 +44,7 @@ In the mobile app:
 
 ## Log your time
 
-In the web app (app.mobileserve.org):
+#### In the web app (app.mobileserve.org):
 1. From the home screen of your profile, click the "Log your hours" button.
 2. Enter your time, and change the date if needed.
 3. In the Service Org box, enter the name of the organization where you volunteered.
@@ -58,7 +58,7 @@ In the web app (app.mobileserve.org):
   - If you click any of the social buttons, you'll have the chance to customize your message before publishing.
 9. Select "Done" and your log and all details will appear on your Activity Page.
 
-In the mobile app:
+#### In the mobile app:
 1. From the home screen of your profile, press any of the "+" icons.
 2. Scroll to enter your time, and change the date if needed
 3. In the Service Org box, enter the name of the organization where you volunteered.
@@ -77,7 +77,7 @@ In the mobile app:
 
 ## RSVP or check - in / out of an event
 
-In the web app (app.mobileserve.org):
+#### In the web app (app.mobileserve.org):
 1. Click on the "Events" tab in the lefthand navigation menu. You'll see all the events you've been invited to.
 2. Click on the correct event name and select "Check-in" or select your RSVP response. You can change your RSVP selection at any time.
 3. When you're ready to leave the event, go to the event again in the app and select "Check out." OR, from the home screen select "Check out of your event."
@@ -86,7 +86,7 @@ In the web app (app.mobileserve.org):
 5. You have the option to add photos and publish to your social channels.
 
 
-In the mobile app:
+#### In the mobile app:
 1. From your home screen, press the menu icon (three bars) in the top left.
 2. Select the "Events" option. You'll see all the events you've been invited to.
 3. Press the correct event name and select "Check-in" or select your RSVP response. You can change your RSVP selection at any time.
@@ -98,13 +98,13 @@ In the mobile app:
 
 ## Edit past log activity
 
-In the web app (app.mobileserve.org):
+#### In the web app (app.mobileserve.org):
 1. Click on the "Activity" tab in the lefthand navigation menu to see all your events.
 2. Click on the log you want to edit.
 3. Click "Edit."
 4. Make your changes and click "Update Hours."
 
-In the mobile app:
+#### In the mobile app:
 1. From your home screen, press the menu icon (three bars) in the top left. Select "Activity."
 2. Press the log you want to edit.
 3. Press the icon in the top right (box with checkmark).
@@ -117,11 +117,11 @@ In the mobile app:
 
 ## Change your password
 
-If you've forgotten it:
+#### If you've forgotten it:
 1. From the login page, select "Forgot your password?"
 2. Enter your email address and you'll receive a message with instructions to finish the reset process.
 
-If you can log-in but want to change your PW:
+#### If you can log-in but want to change your PW:
 1. Go to your Settings (gear icon), select Change Password.
 
 ## Change your email address
@@ -130,7 +130,7 @@ If you can log-in but want to change your PW:
 
 ## Find / invite friends
 
-In the web app (app.mobileserve.org):
+#### In the web app (app.mobileserve.org):
 1. Click on the Friends tab in the lefthand navigation menu.
 2. Select "Find Friends"
 3. Choose between "Facebook" and "On MobileServe" under the search bar.
@@ -139,7 +139,7 @@ In the web app (app.mobileserve.org):
 6. If connected to Facebook, enter names to send invitations.
 
 
-In the mobile app:
+#### In the mobile app:
 1. From your home screen, press the menu icon (three bars) in the top left. Select "Friends."
 2. Select "Find Friends" in the top right corner.
 3. Choose "MobileServe" or "Contacts" to see if your friends are using MobileServe.
