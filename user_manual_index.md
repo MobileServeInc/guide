@@ -1,4 +1,5 @@
 # MobileServe User Manual
+If you are an administrator, check out [the administrators guide](admin_manual_index.md).
 
 ## Create an account on the MobileServe App
 You can download the app directly from the App Store or Google Play. You can also access the web
