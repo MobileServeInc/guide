@@ -1,4 +1,6 @@
 # MobileServe Administrators Guide
+There is also a [Users Guide](user_manual_index.md) for MobileServe users.
+
 
 ## How To Access the Admin Dashboard
 - From the main menu of your MobileServe account, select "Dashboard."
