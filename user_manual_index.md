@@ -1,4 +1,4 @@
-# MobileServe User Guide
+# MobileServe User Guide Exraodinarire
 If you are an administrator, check out [the administrators guide](admin_manual_index.md).
 
 ## Create an account on the MobileServe App
