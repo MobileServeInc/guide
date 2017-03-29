@@ -1,7 +1,7 @@
 # [MobileServe](https://mobileserve.com) User Guides
 
 ## For MobileServe Users
-- [FAQs for Users](https://mobileserve.com/faqs-users/)
+- [FAQs for Users](user_faq.md)
 - [User Guide](user_manual_index.md)
 
 ## For MobileServe Administrators
