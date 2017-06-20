@@ -89,6 +89,7 @@ a {
 .page-header {
   color: #fff
   text-align: center;
+  background-color: #48BEDF;
 
   @include large {
     padding: 5rem 6rem;
@@ -175,6 +176,7 @@ a {
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
+    color: #48BEDF;
   }
 
   p {
