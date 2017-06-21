@@ -48,7 +48,7 @@ Note: The user and their logs will still appear in reports during the timeframe 
 
 ## Some of my members have duplicate accounts. How do I remove the duplicates?
 
-This usually happens when members sign-in using their Facebook account because it’s often linked to a different email address. To delete a duplicate account, email the MobileServe team at [support@mobileserve.org](support@mobileserve.org) and include:
+This usually happens when members sign-in using their Facebook account because it’s often linked to a different email address. To delete a duplicate account, email the MobileServe team at [support@mobileserve.org](mailto:support@mobileserve.org) and include:
 
 1. Which account to keep
 2. Whether hours from the deleted account need to be added to the account we’re keeping
@@ -87,4 +87,4 @@ Deleting: If you delete a Service Category, you can’t undo it. If there are lo
 
 ## Who do I contact with questions?
 
-Send an email to [support@mobileserve.org](support@mobileserve.org).
+Send an email to [support@mobileserve.org](mailto:support@mobileserve.org).
