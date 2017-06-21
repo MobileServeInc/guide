@@ -56,7 +56,7 @@ This option is best if you’re inviting several new users.
 names, and the file type doesn’t matter.
   - Indicate if any of the users should be an administrator.
   - If you have sub orgs, indicate which users belong to which sub org.
-- Email the list to: <jacy@mobileserve.org>
+- Email the list to: [jacy@mobileserve.org](jacy@mobileserve.org)
 - The users will receive an email invitation. When they create an account through the
 link in the email, they will automatically be linked to your organization.
 

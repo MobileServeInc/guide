@@ -67,7 +67,7 @@ add an additional org to your account:
   - You can enter categories for multiple organizations.
   - If you don't want to affiliate with your time with an organization don't select a category in any of the boxes.
 5. Describe your experience in the "Tell Your Story" box. Select "Next."
-6. The next screen shows your verfication options (all are optional and you can select multiple):
+6. The next screen shows your verification options (all are optional and you can select multiple):
   - Email Verification: To have a supervisor verify your hours by email, enter their name and email address. This will trigger an email to the person with a link to easily approve / reject your log.
   - Signature Verification: To get an in-person signature, select "Get Signature." Have your supervisor sign your device on the next screen. Press "Submit Signature" to attach the signature to your log or or select "Cancel" to go back.
   - Geo-verify: Select "Attach my Location" to attach a geolocation to the log. The button will change to "Location Attached." To undo, click the button again.
