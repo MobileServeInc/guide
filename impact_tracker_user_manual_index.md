@@ -1,4 +1,4 @@
-# MobileServe User Guide
+# MobileServe Impact Tracker User Guide
 If you are an administrator, check out [the administrators guide](admin_manual_index.md).
 
 ## Create an account on the MobileServe App
@@ -94,7 +94,7 @@ add an additional org to your account:
 4. When you're leaving, go to the event again in the app and select "Check out." OR, from the home screen select "Check out of your event."
   - If you forget to checkout, you'll receive an email reminder and/or push notification.
 5. The next screen shows your prepopulated log details. You can edit your in/out times, select organizations and categories to affiliate your time with, and verify your time.
-6. You have the option to add photos and publish to your social channels. 
+6. You have the option to add photos and publish to your social channels.
 
 
 ## Edit past log activity
