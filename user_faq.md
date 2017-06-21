@@ -12,11 +12,11 @@ The Administrator of your organization’s MobileSere account can provide you wi
 ### If you can log in but want to change your password:
 
 - Go to your Settings (gear icon), select Change Password.
-- If you do not receive an email it’s because the address you entered does not match the email address used to create your MobileServe account. When this happens, email [support@mobileserve.org](support@mobileserve.org), and we will manually reset your password for you.
+- If you do not receive an email it’s because the address you entered does not match the email address used to create your MobileServe account. When this happens, email [support@mobileserve.org](mailto:support@mobileserve.org), and we will manually reset your password for you.
 
 ## Why do I have multiple accounts?
 
-You may have multiple accounts if you’ve used more than one email address to log in to your account. If you’d like to merge them, email [support@mobileserve.org](support@mobileserve.org) with the following information:
+You may have multiple accounts if you’ve used more than one email address to log in to your account. If you’d like to merge them, email [support@mobileserve.org](mailto:support@mobileserve.org) with the following information:
 
 - The email address associated with the account you want to keep (in your Account Settings)
 - Whether you want to merge any hours from the account being deleted
@@ -44,7 +44,7 @@ Your visibility depends on your privacy settings. To view and change your settin
 
 ## Who do I contact with questions?
 
-Email [support@mobileserve.org](support@mobileserve.org) or use our chat messenger by logging into your account.
+Email [support@mobileserve.org](mailto:support@mobileserve.org) or use our chat messenger by logging into your account.
 
 ## Who has access to my information?
 
