@@ -48,7 +48,7 @@ Note: The user and their logs will still appear in reports during the timeframe 
 
 ## Some of my members have duplicate accounts. How do I remove the duplicates?
 
-This usually happens when members sign-in using their Facebook account because it’s often linked to a different email address. To delete a duplicate account, email the MobileServe team at support@mobileserve.org and include:
+This usually happens when members sign-in using their Facebook account because it’s often linked to a different email address. To delete a duplicate account, email the MobileServe team at <support@mobileserve.org> and include:
 
 1. Which account to keep
 2. Whether hours from the deleted account need to be added to the account we’re keeping
@@ -60,7 +60,7 @@ Your browser may automatically take you to your dashboard as you start typing th
 Toggle between the two by adding or removing “dashboard” from the URL:
 
 1. Your Dashboard is located at: app.mobileserve.org/dashboard
-2. Your personal account (where you can create your own service logs) is located at: app.mobileserve.org
+2. Your personal account (where you can create your own service logs) is located at: [app.mobileserve.org](https://app.mobileserve.org)
 
 ## What reports can I run?
 
@@ -87,4 +87,4 @@ Deleting: If you delete a Service Category, you can’t undo it. If there are lo
 
 ## Who do I contact with questions?
 
-Send an email to support@mobileserve.org.
+Send an email to <support@mobileserve.org>.
