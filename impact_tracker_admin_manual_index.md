@@ -76,6 +76,7 @@ and add the code during signup or at any point in their Settings.
 which lists all service logs.
 - On the profile page, select “**View**” to see all available details of the specific log.
   - You can Accept or Reject the log on this page, although it’s not required
+  
 ![View Member Example](img/view-member-details.png)
 
 ## Sub Orgs
