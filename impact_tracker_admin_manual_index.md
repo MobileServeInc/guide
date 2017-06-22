@@ -27,6 +27,7 @@ organization. If you have any sub-organizations, they’ll be listed at the bott
 
 In the Users section, you can invite and manage users. The User Management page shows
 basic contact information as well as total service hours each user has contributed to date.
+
 ![User Example](img/users.png)
 
 #### Tips
@@ -84,6 +85,7 @@ which lists all service logs.
 In the Sub Orgs section of your Dashboard, you can create and view sub-organizations. The
 default page shows a list of your existing sub orgs and their total hours. Clicking “**Go To**”
 next to a name will take you to that sub org’s Dashboard.
+
 ![Sub Orgs Example](img/sub-orgs.png)
 
 ## Create a New Sub Org
@@ -91,6 +93,7 @@ next to a name will take you to that sub org’s Dashboard.
 - From the Sub Orgs page, select “**Create Sub Org**” and enter the name.
 - Once created, the name will appear on the main Sub Org page. You can manage the
 sub org (e.g. invite users, view the sub org’s code, etc.) by going to its Dashboard.
+
 ![Creating Sub-Org Example](img/create-sub-org.png)
 
 ## Events
@@ -111,6 +114,7 @@ and/or suborganization names. The app will provide suggestions as you type.
 - When you click "**Add the New Event**" users will receive an email invitation and the
 event will automatically be added to their Events section in the app.
 - Users have the option to RSVP, but it is not required.
+
 ![Create Event Example](img/create-event.png)
 
 ## Event Invite Email
@@ -121,6 +125,7 @@ event will automatically be added to their Events section in the app.
 From the **Events** tab:
 - Click “View” next to the event you’d like to change or review.
 - To make changes, click “Update” on the next page
+
 ![Update Event Example](img/update-event.png)
 
 ## Service Logs
@@ -130,6 +135,7 @@ The **Service Logs** section shows every log that has been submitted, whether it
 by a supervisor (and how it was verified), and whether you have approved or rejected it.
 To see details of a Service Log:
 - Click “**View**” next to an individual log
+
 ![Service Log Example](img/service-logs.png)
 #### Tips
 - Filter by date to limit the results.
@@ -185,6 +191,7 @@ them to their social media channels. All photos taken by your members will appea
 Dashboard in the **Photos** section, regardless of whether the member posted it elsewhere.
 Clicking on any photo will take you to the service log it is attached to, so you can easily read
 the story behind the image.
+
 ![Photo Example](img/photos.png)
 
 ## Reports
@@ -204,6 +211,7 @@ them for a custom report. All image are downloaded as .png files.
 - The report is built in real-time, so you can see what it looks like to add or remove the
 data points.
 - Click “**Download Infographic**”
+
 ![Build Report Example](img/build-report.png)
 
 ## Settings
