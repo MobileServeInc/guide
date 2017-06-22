@@ -21,7 +21,8 @@ Encourage members to create their MobileServe account via the email invitation l
 4. Select “Join Organization”
 5. Enter the code and wait for the organization to be found
 6. Select “Join”
-7. How do I make someone an administrator? CHECK THIS IT SEEMS LIKE A MISTAKE
+
+## How do I make someone an administrator?
 
 ### When inviting the user for the first time:
 
