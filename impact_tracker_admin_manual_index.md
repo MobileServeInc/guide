@@ -28,7 +28,7 @@ organization. If you have any sub-organizations, they’ll be listed at the bott
 In the Users section, you can invite and manage users. The User Management page shows
 basic contact information as well as total service hours each user has contributed to date.
 
-![User Example](img/Pic 3.png)
+![User Example](img/pic 3.png)
 
 #### Tips
 - User Management provides a quick glance at who has or hasn’t logged hours. Sort by
