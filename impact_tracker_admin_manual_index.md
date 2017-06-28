@@ -15,7 +15,7 @@ There is also a [Users Guide](user_manual_index.md) for MobileServe users.
 The Organization Overview is your Dashboard home and provides a quick glance at your
 organization. If you have any sub-organizations, they’ll be listed at the bottom of this page.
 
-![Dashboard Overview Picture](img/dashboard-home.png)
+![Dashboard Overview Picture](img/Pic 1.png)
 
 #### Tips
 - Filter the data by date in the top right corner.
