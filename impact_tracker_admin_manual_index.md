@@ -28,7 +28,7 @@ organization. If you have any sub-organizations, they’ll be listed at the bott
 In the Users section, you can invite and manage users. The User Management page shows
 basic contact information as well as total service hours each user has contributed to date.
 
-![User Example](img/users.png)
+![User Example](img/Pic 3.png)
 
 #### Tips
 - User Management provides a quick glance at who has or hasn’t logged hours. Sort by
@@ -69,7 +69,7 @@ read) an email that comes directly from MobileServe. They can create MobileServe
 and add the code during signup or at any point in their Settings.
 
 ### Email Invitation
-![Invitation Email Example](img/email-invitation.png)
+![Invitation Email Example](img/pic 4.png)
 
 ## View Member Details
 
@@ -78,7 +78,7 @@ which lists all service logs.
 - On the profile page, select “**View**” to see all available details of the specific log.
   - You can Accept or Reject the log on this page, although it’s not required
   
-![View Member Example](img/view-member-details.png)
+![View Member Example](img/pic 5.png)
 
 ## Sub Orgs
 
@@ -86,7 +86,7 @@ In the Sub Orgs section of your Dashboard, you can create and view sub-organizat
 default page shows a list of your existing sub orgs and their total hours. Clicking “**Go To**”
 next to a name will take you to that sub org’s Dashboard.
 
-![Sub Orgs Example](img/sub-orgs.png)
+![Sub Orgs Example](img/pic 6.png)
 
 ## Create a New Sub Org
 
@@ -94,7 +94,7 @@ next to a name will take you to that sub org’s Dashboard.
 - Once created, the name will appear on the main Sub Org page. You can manage the
 sub org (e.g. invite users, view the sub org’s code, etc.) by going to its Dashboard.
 
-![Creating Sub-Org Example](img/create-sub-org.png)
+![Creating Sub-Org Example](img/pic 7.png)
 
 ## Events
 
@@ -115,10 +115,10 @@ and/or suborganization names. The app will provide suggestions as you type.
 event will automatically be added to their Events section in the app.
 - Users have the option to RSVP, but it is not required.
 
-![Create Event Example](img/create-event.png)
+![Create Event Example](img/pic 8.png)
 
 ## Event Invite Email
-![Event Email Notification Example](img/event-email.png)
+![Event Email Notification Example](img/pic 9.png)
 
 ## View or Update an Event
 
@@ -126,7 +126,7 @@ From the **Events** tab:
 - Click “View” next to the event you’d like to change or review.
 - To make changes, click “Update” on the next page
 
-![Update Event Example](img/update-event.png)
+![Update Event Example](img/pic 10.png)
 
 ## Service Logs
 
@@ -136,7 +136,7 @@ by a supervisor (and how it was verified), and whether you have approved or reje
 To see details of a Service Log:
 - Click “**View**” next to an individual log
 
-![Service Log Example](img/service-logs.png)
+![Service Log Example](img/pic 11.png)
 #### Tips
 - Filter by date to limit the results.
 - Search for a user name or service organization to isolate specific logs.
@@ -192,7 +192,7 @@ Dashboard in the **Photos** section, regardless of whether the member posted it 
 Clicking on any photo will take you to the service log it is attached to, so you can easily read
 the story behind the image.
 
-![Photo Example](img/photos.png)
+![Photo Example](img/pic 12.png)
 
 ## Reports
 
@@ -212,7 +212,7 @@ them for a custom report. All image are downloaded as .png files.
 data points.
 - Click “**Download Infographic**”
 
-![Build Report Example](img/build-report.png)
+![Build Report Example](img/pic 13.png)
 
 ## Settings
 
