@@ -3,6 +3,7 @@
 ### User Guides
 - [FAQs for Users](user_faq.md)
 - [User How-to Guide](impact_tracker_user_manual_index.md)
+- [Download A User Guide][embed]App Overview for Users.pdf[/embed]
 
 ### Admin Guides
 - [Admin Dashboard Video Tutorials](http://info.mobileserve.com/tutorial-videos)
