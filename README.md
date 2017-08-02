@@ -8,5 +8,6 @@
 ### Admin Guides
 - [Admin Dashboard Video Tutorials](http://info.mobileserve.com/tutorial-videos)
 - [FAQs for Administrators](admin_faq.md)
+- [Using the Kiosk & Roster Modes] (http://info.mobileserve.com/kiosk-admin-guide)
 - [Admin How-to Guide](impact_tracker_admin_manual_index.md)
 - [Volunteer Flow Admin How-to Guide (previously Nonprofit Portal)](volunteer_flow_admin_manual_index.md)
