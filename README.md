@@ -14,4 +14,4 @@
 ### Nonprofit Portal Guides
 - [Nonprofit Portal Video Tutorials](https://info.mobileserve.com/tutorial-videos-0)
 - [Using the Kiosk & Roster Modes](http://info.mobileserve.com/kiosk-admin-guide)
-- [Volunteer Flow Admin How-to Guide (previously Nonprofit Portal)](volunteer_flow_admin_manual_index.md)
+- [Nonprofit Portal How-to Guide](volunteer_flow_admin_manual_index.md)
